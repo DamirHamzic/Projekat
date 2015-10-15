@@ -9,6 +9,5 @@ main:
   call printf
   movl %ebp, %esp
   popl %ebp
-  
   ret
 
